@@ -191,7 +191,7 @@ log using diaghw.smcl, replace
 	
 	5. m and g does not appear to independently predict intensity
 	
-	6. Overall, the above provides most for the commercialization theory and not the traditionalism theory. There is also a positive and significant interaction between commercialization and traditionalism, suggesting that the presence of both disproportionately influences rebellion intensity. m and g does not appear to independently influence rebellion intensity.
+	6. Overall, the above provides most support for the commercialization theory and not the traditionalism theory. There is also a positive and significant interaction between commercialization and traditionalism, suggesting that the presence of both disproportionately influences rebellion intensity. m and g does not appear to independently influence rebellion intensity.
 */
 
 translate "diaghw.smcl" Ldiaghw.pdf, replace
